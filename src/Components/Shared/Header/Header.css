@@ -1,0 +1,13 @@
+/* navbar links align  */
+.navbar-align{
+    align-items: flex-start;
+    flex-grow: unset;
+}
+/* title  */
+.navbar-light .title{
+    color: rgb(247, 255, 249);
+    /* color: rgb(146, 193, 240); */
+}
+.navbar-light .title:hover{
+    color: rgb(247, 255, 249);
+}

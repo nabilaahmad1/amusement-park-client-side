@@ -1,0 +1,9 @@
+/* place order form  */
+.form input, textarea{
+ width: 40%;
+ margin-bottom: 10px;
+ outline: none;
+ border-radius: 10px;
+ border: 1px solid black;
+ padding: 5px 10px;
+}

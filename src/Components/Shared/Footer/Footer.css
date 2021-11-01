@@ -1,0 +1,9 @@
+/* list style of services  */
+ul li {
+    list-style: none;
+    text-align: left;
+    line-height: 40px;
+}
+.title{
+    color: rgb(247, 255, 249);
+}

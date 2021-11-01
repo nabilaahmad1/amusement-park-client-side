@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Roller Coster",
+        "img": "https://i.postimg.cc/4dhjNWpf/theme-blue-carnival-coaster-amusement.jpg",
+        "description": "roller coaster, elevated railway with steep inclines and descents that carries a train of passengers through sharp curves and sudden changes of speed and direction for a brief thrill ride. Found mostly in ",
+        "price": 30
+    },
+    {
+        "id": 2,
+        "serviceName": "Carousel",
+        "img": "https://i.postimg.cc/SRxQP0wT/carousel-horses-carnival-merry-go-round.jpg",
+        "description": "The most elegant of all amusement park rides, the carousel dates back to around ped to look like decorated animals, such as deer, cats, fish, rabbits, giraffes, and, of course, horses. Old carousel",
+        "price": 20
+    },
+    {
+        "id": 3,
+        "serviceName": "Ferris Wheel",
+        "img": "https://i.postimg.cc/LsDrbq2S/low-angle-big-ferry-wheel-city.jpg",
+        "description": "Ah, the mighty Ferris wheel — provider of a million romantic moments and breathtakintion of 1erris presented fr. The Ferris wheel is a must-have for any carnival, and thousands of replications continue t",
+        "price": 40
+    },
+    {
+        "id": 4,
+        "serviceName": "Rotor",
+        "img": "https://i.postimg.cc/zG7r92F4/service-pnp-mrg-09600-09609v.jpg",
+        "description": "Quick! Get up and twirl around as fast as you can for three straight higo sensation? If not, why not go on a rotor ride? Designed in the 1940s by engineer Ernst Hoffmeist and watch as all the people inside",
+        "price": 50
+    },
+    {
+        "id": 5,
+        "serviceName": "Bumper Cars",
+        "img": "https://i.postimg.cc/05zy7v0j/nof4ab-128-knottstimeline-me-031515.jpg",
+        "description": "If you've ever wanted to recreate the excitement and thrill of a fender bender, this is your ride! Bumper",
+        "price": 35
+    },
+    {
+        "id": 6,
+        "serviceName": "Log Rides",
+        "img": "https://i.postimg.cc/Dy5LmnvZ/calico-river-rapids-tileimage.jpg",
+        "description": "If you were a lumberjack in America in the late 1800s, The first one, called El Aserradero, w out log and rushed down the flume, getting soaked in the process added another log ride",
+        "price": 45
+    }
+]
